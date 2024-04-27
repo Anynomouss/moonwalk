@@ -5,8 +5,8 @@
 @import "list";
 @import "syntax";
 
-## Added below lines to fix emoticon block layout new line isssue
-## https://github.com/jekyll/jemoji/issues/24
+// Added below lines to fix emoticon block layout new line isssue
+// https://github.com/jekyll/jemoji/issues/24
 img.emoji {
     display: inline;
     height: 1em;
